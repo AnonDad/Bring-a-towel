@@ -14,7 +14,7 @@ If you're offended by the code, first get over it, second the joke is i am certa
 Likely just a disgruntled ex/employee or Contractor sticking it to the
 Orange Man for being a xenophobic asshole whether justified or not by opinion
 I am petty enough to admit I not only would backdoor anything i compiled but
-I certainly wouldve considered the implications in this climate were that my contact. 
+I certainly wouldve considered the implications in this climate were that my contract. 
 
 <?php faultz
 
